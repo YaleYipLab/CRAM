@@ -8,8 +8,7 @@ cram_data.mat will contain the full dataset and outputs.
 
 Example usage:
 
-f = "output_directory";
-
+f = "output_directory";<br></br>
 cd = cram_data.load(f);
 cd.cv_folds = 10;
 cd.cv_repeats = 100;
