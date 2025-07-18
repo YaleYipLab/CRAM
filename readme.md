@@ -24,7 +24,7 @@ cd.folder = f;
 
 cd.mats = x; % (n x n x m tensor)
 
-cd.mtrc = metric.CPM;
+cd.mtrc = metric.Wasserstein;
 
 cd.outcomes = y; % (m-length vector)
 
