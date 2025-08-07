@@ -18,7 +18,7 @@ cd.cv_repeats = 100;
 
 cd.dataset = "example_dataset";
 
-cd.extract_networks = false;
+cd.extract_networks = true;
 
 cd.folder = f;
 
