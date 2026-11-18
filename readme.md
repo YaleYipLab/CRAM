@@ -293,11 +293,13 @@ The `*.asv` files are MATLAB editor autosaves. You can delete them.
 
 ## Citation
 
-When using this code, please cite the author.
+When using this code, please cite the author:
+
+> Riley, Steve, et al. "Is the whole more than the sum of its parts? Considering global and local features of the connectome improves prediction of individuals and phenotypes." Imaging Neuroscience 4 (2026): IMAG-a.
 
 If you use the CPM baseline, please also cite:
 
-> Shen, X., Finn, E. S., Scheinost, D., Rosenberg, M. D., Chun, M. M., Papademetris, X., & Constable, R. T. (2017). Using connectome-based predictive modeling to predict individual behavior from brain connectivity. *Nature Protocols*, 12(3), 506–518.
+> Shen, Xilin, et al. "Using connectome-based predictive modeling to predict individual behavior from brain connectivity." nature protocols 12.3 (2017): 506-518.
 
 Methods used in the pipeline:
 
